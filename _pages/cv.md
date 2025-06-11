@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+
 Please reach out to me by email for my full resume.
 
 Education
@@ -25,14 +26,19 @@ Skills
 Selected Presentations & Abstracts
 ======
 **Ike O. Keku**, Lauren E. Kass, Shawn D. Hingtgen. Using Bioprinting to Achieve Enhanced Persistence, Consistency in Cell Loading across Scaffolds, and Long-Term Sustained Release of Cells from Scaffolds. 2023 UNC Celebration of Undergraduate Research. _Poster Presentation_.
+
 **Ike O. Keku**, Andrew E. Massey, Stephen W. Behrman, Alexander X. Cartagena-Rivera. Nanoscale viscoelastic mapping of patient primary pancreatic cancer tumors. NIH Summer Poster Day 2023. _Poster Presentation_.
+
 **Ike O. Keku**, Andrew E. Massey, Stephen W. Behrman, Alexander X. Cartagena-Rivera. Nanoscale viscoelastic mapping of patient primary pancreatic cancer tumors. NIBIB BETA Center Oral Talk 2023. _Oral Presentation_.
+
 **Ike O. Keku**, Andrew E. Massey, Stephen W. Behrman, Alexander X. Cartagena-Rivera. Nanoscale viscoelastic mapping of patient primary pancreatic cancer tumors. 2023 Biomedical Engineering Society Annual Meeting. _Poster Presentation_.
   
-**Highlighted Awards and Honors**
+**Highlighted Awards & Honors**
 ======
 College of Engineering Dean’s Fellowship, (Autumn 2024), UW
+
 Carolina Research Scholar, (Fall 2023), UNC-CH
+
 Honors Study Abroad Scholarship, (June 2022), UNC-CH
 
 <!--
@@ -55,15 +61,15 @@ Teaching
   {% endfor %}</ul>
 
 -->
-Service and leadership
+Service & Leadership
 ======
-* Vice President, National Society of Black Engineers, (January 2023 – May 2024), UNC-CH
+* **Vice President**, National Society of Black Engineers, (January 2023 – May 2024), UNC-CH
   * Developed general body and executive board meeting agendas jointly with the president
   * Hosted academic panels to encourage networking opportunities between undergraduate general body
 members and graduate students/alumni
   * Organized professional development workshops aimed at enhancing career growth and soft skills for
 participants
-* Programming Director, American Lung Cancer Screening Initiative, (March 2022 – May 2024), UNC-CH
+* **Programming Director**, American Lung Cancer Screening Initiative, (March 2022 – May 2024), UNC-CH
   * Worked with local representatives and city officials to raise awareness for lung cancer and lung cancer
 screening
   * Coordinated events to celebrate lung cancer survivors and spread hope about advancements in lung
