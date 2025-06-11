@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "AIke"
+title                    : "A.Ike."
 title_separator          : "-"
-name                     : &name "Ike"
+name                     : &name "Ike Keku"
 description              : &description "I’m a Bioengineering doctoral student at the University of Washington and a graduate of the UNC/NCSU Lampe Joint BME Program. My dedication to improving healthcare quality, particularly for marginalized communities, drives my ambition for a future in the biomedical field. I aim to advance techniques and therapies that enhance access to care and improve health outcomes for underserved populations."
 url                      : https://ikekeku.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -29,7 +29,7 @@ author:
   # location         : "Earth"
   # employer         : "Red Brick University"
   uri              : # URL
-  # email            : "none@example.org" 
+  email            : "keku@uw.edu" 
 
   # Academic websites
   academia         : # URL
@@ -75,6 +75,7 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # Username
+  tiktok           : "@uofwa"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
