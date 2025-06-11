@@ -61,6 +61,7 @@ Teaching
   {% endfor %}</ul>
 
 -->
+
 Service & Leadership
 ======
 * **Vice President**, National Society of Black Engineers, (January 2023 – May 2024), UNC-CH
